@@ -1,0 +1,12 @@
+{
+  "name": "logrep",
+  "version": "0.1.0",
+  "description": "Grep search for commits in Git log",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin":{
+    "logrep":"index.js"
+  },
+  "author": "Erik Sälgström Peterson",
+  "license": "GPLv2"
+}
